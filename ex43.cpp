@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     char cad[] = "JUAN";
 
-    strlwr(cad); // inverdir el nombre Pablo
+    strlwr(cad); // convierte a minuscula el nombre juan
 
     cout << cad << endl;
     getch();
